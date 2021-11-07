@@ -1,2 +1,2 @@
 # Python-Projects
-Python projects I have developed 
+Python projects I have coded for practice 
